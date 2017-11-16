@@ -1,4 +1,4 @@
-baseurl = "https://github.com/sunyuyangg555/o2power"
+baseurl = "sunyuyangg555/o2power/"
 languageCode = "en-us"
 title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
