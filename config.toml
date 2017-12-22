@@ -1,5 +1,5 @@
 baseurl = ""
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
